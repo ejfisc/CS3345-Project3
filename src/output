@@ -1,0 +1,39 @@
+True
+True
+True
+True
+True
+True
+True
+50 40 35 *30 33 45 
+Error in Line: prinNtree
+True
+True
+50 40 35 *30 33 45 61 59 
+33
+False
+50 40 35 *30 33 45 61 59 
+61
+Error in Insert: IllegalArgumentException raised
+Error in Delete: IllegalArgumentException raised
+Error in Contains: IllegalArgumentException raised
+Error in Line: derp:chirp
+Error in Line: 1234:Insert
+True
+True
+True
+True
+50 40 35 *30 33 45 61 59 80 75 *74 
+33
+True
+True
+True
+True
+98
+50 40 35 *30 33 45 61 59 80 75 *74 90 *99 98 
+True
+False
+50 40 35 *30 33 45 61 59 80 75 *74 90 *99 98 
+Error in Delete: IllegalArgumentException raised
+Error in Insert: IllegalArgumentException raised
+Error in Contains: IllegalArgumentException raised
